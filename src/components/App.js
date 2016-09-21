@@ -1,4 +1,5 @@
 const React = require('react');
+const jQuery = require('jQuery')
 
 const App = React.createClass({
 
